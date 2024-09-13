@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-![# Sistema Bancário em Python](https://i.pinimg.com/originals/fc/96/73/fc96737823959a395482adf0a620c60a.gif)
+![Sistema bancario](https://i.pinimg.com/originals/fc/96/73/fc96737823959a395482adf0a620c60a.gif)
 
 
 ## Descrição
