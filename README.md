@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-![Sistema bancario](https://i.pinimg.com/originals/fc/96/73/fc96737823959a395482adf0a620c60a.gif)
+<img align="right" src="https://i.imgur.com/dMEjCBP.gif" alt="codecene" width="200"/>
 
 
 ## Descrição
